@@ -1,2 +1,6 @@
 # PrinzyW-15213
-PrinzyW's 12-213 labs
+PrinzyW's 15-213 labs repository.
+
+Just doing for fun.
+
+Enjoy myself!
